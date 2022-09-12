@@ -78,3 +78,36 @@ table tbody tr{
     height: 50px;
 }
 /* MAIN */
+
+
+/* FOOTER */
+Footer{
+    margin-top: 30px;
+    margin-left: 8px;
+    color: #808080;
+}
+
+footer .container-foto{
+    height: 200px;
+    width: 260px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background-position: center;
+}
+
+footer #prima-foto{
+    background-image: url(../img/monitor.jpg);
+}
+
+footer #seconda-foto{
+    background-image: url(../img/graph.jpg);
+}
+
+.title-foot{
+    color: white;
+    font-size: 22px;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+/* FOOTER */
