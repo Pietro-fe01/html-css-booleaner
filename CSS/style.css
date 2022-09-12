@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* HEADER */
 header {
     height: 80px;
     background-color: #4EA0FF;
@@ -18,3 +19,33 @@ header img {
     margin-top: 13px;;
     margin-left: 10px;
 }
+/* HEADER */
+
+/* MAIN */
+main {
+    margin-top: 10px;
+    margin-left: 8px;
+}
+
+.container #credits {
+    color: #808080;
+}
+
+.container #credits #nome-autore {
+    color: #20A9E5;
+}
+
+.container #credits small{
+    position: relative;
+    top: -3px;
+    font-size: 11px;
+}
+
+.container .tim-foto{
+    margin-top: 10px;
+}
+
+.container #places > small{
+    display: block;
+}
+/* MAIN */
