@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.cont-mid{
+    max-width: 1100px;
+    margin: auto;
+}
+
 /* HEADER */
 header {
     height: 80px;
@@ -17,7 +22,7 @@ header img {
     width: 170px;
     height: 90px;
     margin-top: 13px;;
-    margin-left: 10px;
+    margin-left: 205px;
 }
 /* HEADER */
 
@@ -43,7 +48,7 @@ main {
 
 .container .tim-foto{
     margin-top: 10px;
-    width: 550px;
+    width: 450px;
     height: 350px;
 }
 
