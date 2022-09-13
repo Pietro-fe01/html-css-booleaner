@@ -92,11 +92,10 @@ Footer{
 }
 
 footer .container-foto{
-    height: 200px;
-    width: 260px;
+    height: 208px;
+    width: 312px;
     margin-top: 10px;
     margin-bottom: 15px;
-    background-position: center;
 }
 
 footer #prima-foto{
